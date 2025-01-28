@@ -67,12 +67,7 @@ export default function Page() {
           Next, look for the error on the{" "}
           <a href="https://abhishek9503.sentry.io/issues/?project=4508717175209984">Issues Page</a>.
         </p>
-        <p style={{ marginTop: "24px" }}>
-          For more information, see{" "}
-          <a href="https://docs.sentry.io/platforms/javascript/guides/nextjs/">
-            https://docs.sentry.io/platforms/javascript/guides/nextjs/
-          </a>
-        </p>
+        
       </main>
     </div>
   );
